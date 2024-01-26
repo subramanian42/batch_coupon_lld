@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "Codegeex.SidebarUI.LanguagePreference": "English",
+    "Codegeex.Explanation.LanguagePreference": "English",
+    "Codegeex.Comment.LanguagePreference": "English",
+    "Codegeex.CompletionModel": "CodeGeeX Pro[Beta]"
+}
